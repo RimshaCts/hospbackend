@@ -1,0 +1,6 @@
+@DoctorProfile_webapi_HostAddress = http://localhost:5124
+
+GET {{DoctorProfile_webapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
